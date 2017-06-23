@@ -17,4 +17,4 @@ ENV DOWNLOAD_C_CLIENT=0 \
     PREFIX=/aerospike-client-c/target/Linux-x86_64 \
     AEROSPIKE_LUA_PATH=/aerospike-client-c/modules/lua-core/src
 
-RUN pip install aerospike==2.1.0
+RUN pip install aerospike==2.1.1
