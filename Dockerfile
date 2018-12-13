@@ -1,3 +1,3 @@
-FROM python:2.7.12
+FROM python:3.6.7
 
-RUN pip install aerospike==2.1.1
+RUN pip install aerospike==3.5.0
